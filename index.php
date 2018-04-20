@@ -80,6 +80,7 @@
                   <h2>PHP CRUD App with MYSQL</h2>
                   <p class="mb-0"><b>Technology:</b> PHP, Javascript, HTML5, CSS3, BootstrapCSS</p>
                   <p class="mb-0"><b>Description:</b>An app to Create, Read, Update, Delete Products.</p>
+                  <p class="mb-0"><b>Next:</b>Create E-Commerce Store.</p>
                 </span>
               </span>
               <img class="img-fluid" src="img/coding.png" alt="">
