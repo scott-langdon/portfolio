@@ -1,3 +1,5 @@
+<?php echo "string"; ?>
+
 <!DOCTYPE html>
 <html lang="en">
 
