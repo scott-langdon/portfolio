@@ -13,12 +13,12 @@
     <link rel="shortcut icon" type="image/png" href="img/yingyang.png"/>
 
     <!-- Bootstrap Core CSS -->
-    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
-    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="css/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
-    <link href="vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
+    <link href="css/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
 
     <!-- Custom CSS -->
     <link href="css/stylish-portfolio.min.css" rel="stylesheet">
@@ -250,7 +250,7 @@
             </a>
           </li>
         </ul>
-        <p>I'm a life long learner. The future is software, and everyday I get to wake up to learn and write new & useful code. Excited to see where it all takes us. #CoderForLife</p>
+        <p>I'm a life long learner. The future is software. Everyday I get to wake up to learn and write new & useful code. Excited to see where it all takes us. #CoderForLife</p>
         <p class="text-muted small mb-0">Copyright &copy;  2018</p>
       </div>
     </footer>
@@ -262,11 +262,11 @@
     </a>
 
     <!-- Bootstrap core JavaScript -->
-    <script src="vendor/jquery/jquery.min.js"></script>
-    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="js/jquery/jquery.min.js"></script>
+    <script src="js/bootstrap/js/bootstrap.bundle.min.js"></script>
 
     <!-- Plugin JavaScript -->
-    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+    <script src="js/jquery-easing/jquery.easing.min.js"></script>
 
     <!-- Custom scripts for this template -->
     <script src="js/stylish-portfolio.min.js"></script>
